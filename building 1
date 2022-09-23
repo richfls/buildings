@@ -7,7 +7,7 @@ w = py.display.set_mode((screenw,screenh))
 py.display.set_caption("City skyline")
 clock = py.time.Clock()
 gl = True
-
+#new branch test
 bruh = int(input("enter how many buildings you want\n"))
 
 
